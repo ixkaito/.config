@@ -1,7 +1,7 @@
 # .config
 
 - [babel.config.js](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
-- [.babelrc (and .babelrc.js)](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
+- [.babelrc, .babelrc.js](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
 - .browserslistrc
 - circle.yml
 - composer.json
@@ -32,7 +32,10 @@
 - package-lock.json
 - postcss.config.js
 - .prettierignore
-- .prettierrc.js
+- [.prettierrc](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
+- [.prettierrc.json, .prettierrc.yml, .prettierrc.yaml](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
+- [.prettierrc.js, prettier.config.js](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
+- [.prettierrc.toml](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
 - .ruby-version
 - .stylelintrc.json
 - tailwind.config.js
