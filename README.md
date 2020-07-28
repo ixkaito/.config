@@ -1,5 +1,7 @@
 # .config
 
+- api.config.js
+- azure-pipelines.yml
 - [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
 - [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
 - [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
@@ -17,11 +19,15 @@
 - .gitignore
 - Gemfile
 - Gemfile.lock
+- husky.config.js
+- jest.config.js
 - jsconfig.json
 - .jshintignore
 - lerna.json
+- lint-staged.config.js
 - .markdownlint.json
 - .markdownlintignore
+- .metadata
 - .node-version
 - .npmpackagejsonlintrc.json
 - .npmrc
@@ -32,7 +38,11 @@
 - postcss.config.js
 - [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
 - [`.prettierrc`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.js`, `prettier.config.js`, `.prettierrc.toml`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
+- pubspec.lock
+- pubspec.yaml
+- renovate.json
 - .ruby-version
+- stylelint.config.js
 - .stylelintrc.json
 - tailwind.config.js
 - .travis.yml
@@ -44,3 +54,4 @@
 - wp-cli.yml
 - .wp-env.json
 - yarn.lock
+- .yarnrc
