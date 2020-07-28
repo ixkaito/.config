@@ -13,10 +13,10 @@
 - lerna.json
 - .markdownlint.json
 - .markdownlintignore
+- .node-version
 - .npmpackagejsonlintrc.json
 - .npmrc
 - .nvmrc
-- .node-version
 - package.json
 - package-lock.json
 - .prettierrc.js
