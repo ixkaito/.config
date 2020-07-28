@@ -13,6 +13,7 @@
 - .eslintrc.js
 - gatsby-config.js
 - .gitattributes
+- .gitconfig
 - .gitignore
 - Gemfile
 - Gemfile.lock
