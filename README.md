@@ -2,12 +2,10 @@
 
 - [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
 - [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
-- .browserslistrc
-- circle.yml
+- [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
 - composer.json
 - composer.lock
-- config.rb
-- _config.yml
+- [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
 - .dockerignore
 - .editorconfig
 - .eslintignore
