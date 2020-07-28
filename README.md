@@ -1,7 +1,7 @@
 # .config
 
-- [babel.config.js](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
-- [.babelrc, .babelrc.js](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
+- [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
+- [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
 - .browserslistrc
 - circle.yml
 - composer.json
