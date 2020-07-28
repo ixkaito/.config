@@ -1,6 +1,7 @@
 # .config
 
 - babel.config.js
+- .browserslistrc
 - composer.json
 - composer.lock
 - .editorconfig
