@@ -1,7 +1,7 @@
 # .config
 
-- babel.config.js
-- .babelrc
+- [babel.config.js](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
+- [.babelrc (and .babelrc.js)](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
 - .browserslistrc
 - circle.yml
 - composer.json
@@ -28,7 +28,7 @@
 - .npmrc
 - nuxt.config.js
 - .nvmrc
-- package.json
+- [package.json](https://docs.npmjs.com/files/package.json) - npm package metadata.
 - package-lock.json
 - postcss.config.js
 - .prettierignore
@@ -41,7 +41,7 @@
 - tsconfig.base.json
 - tslint.json
 - vue.config.js
-- webpack.config.js
+- [webpack.config.js](https://webpack.js.org/configuration/) - webpack configuration file.
 - wp-cli.yml
 - .wp-env.json
 - yarn.lock
