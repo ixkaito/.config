@@ -1,1 +1,27 @@
 # .config
+
+- babel.config.js
+- composer.json
+- composer.lock
+- .editorconfig
+- .eslintignore
+- .eslintrc.js
+- .gitignore
+- jsconfig.json
+- .jshintignore
+- lerna.json
+- .markdownlint.json
+- .markdownlintignore
+- .npmpackagejsonlintrc.json
+- .npmrc
+- .nvmrc
+- .node-version
+- package.json
+- package-lock.json
+- .prettierrc.js
+- .stylelintrc.json
+- tsconfig.json
+- tsconfig.base.json
+- webpack.config.js
+- .wp-env.json
+- yarn.lock
