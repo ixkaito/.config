@@ -1,7 +1,7 @@
 # .config
 
-- [**`babel.config.js`**](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
-- [**`.babelrc`**, **`.babelrc.js`**](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
+- [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
+- [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
 - .browserslistrc
 - circle.yml
 - composer.json
@@ -28,11 +28,11 @@
 - .npmrc
 - nuxt.config.js
 - .nvmrc
-- [**`package.json`**](https://docs.npmjs.com/files/package.json) - Npm package metadata.
+- [`package.json`](https://docs.npmjs.com/files/package.json) - Npm package metadata.
 - package-lock.json
 - postcss.config.js
-- [**`.prettierignore`**](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
-- [**`.prettierrc`**, **`.prettierrc.json`**, **`.prettierrc.yml`**, **`.prettierrc.yaml`**, **`.prettierrc.js`**, **`prettier.config.js`**, **`.prettierrc.toml`**](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
+- [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
+- [`.prettierrc`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.js`, `prettier.config.js`, `.prettierrc.toml`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
 - .ruby-version
 - .stylelintrc.json
 - tailwind.config.js
@@ -41,7 +41,7 @@
 - tsconfig.base.json
 - tslint.json
 - vue.config.js
-- [**`webpack.config.js`**](https://webpack.js.org/configuration/) - Webpack configuration file.
+- [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
 - wp-cli.yml
 - .wp-env.json
 - yarn.lock
