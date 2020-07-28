@@ -28,10 +28,10 @@
 - .npmrc
 - nuxt.config.js
 - .nvmrc
-- [**`package.json`**](https://docs.npmjs.com/files/package.json) - npm package metadata.
+- [**`package.json`**](https://docs.npmjs.com/files/package.json) - Npm package metadata.
 - package-lock.json
 - postcss.config.js
-- .prettierignore
+- [**`.prettierignore`**](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
 - [**`.prettierrc`**, **`.prettierrc.json`**, **`.prettierrc.yml`**, **`.prettierrc.yaml`**, **`.prettierrc.js`**, **`prettier.config.js`**, **`.prettierrc.toml`**](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
 - .ruby-version
 - .stylelintrc.json
@@ -41,7 +41,7 @@
 - tsconfig.base.json
 - tslint.json
 - vue.config.js
-- [**`webpack.config.js`**](https://webpack.js.org/configuration/) - webpack configuration file.
+- [**`webpack.config.js`**](https://webpack.js.org/configuration/) - Webpack configuration file.
 - wp-cli.yml
 - .wp-env.json
 - yarn.lock
