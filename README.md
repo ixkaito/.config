@@ -39,7 +39,7 @@
 - tsconfig.base.json
 - tslint.json
 - vue.config.js
-- ![webpack icon](./icons/webpack.svg) [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
+- [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
 - wp-cli.yml
 - .wp-env.json
 - yarn.lock
