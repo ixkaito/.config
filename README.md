@@ -33,7 +33,7 @@
 - [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
 - [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
 - .nvmrc
-- [`package.json`](https://docs.npmjs.com/files/package.json) - Npm package metadata.
+- [`package.json`](https://docs.npmjs.com/files/package.json) - npm package metadata.
 - package-lock.json
 - postcss.config.js
 - [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
