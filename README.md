@@ -30,7 +30,7 @@
 - .metadata
 - .node-version
 - .npmpackagejsonlintrc.json
-- .npmrc
+- [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
 - [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
 - .nvmrc
 - [`package.json`](https://docs.npmjs.com/files/package.json) - Npm package metadata.
