@@ -31,7 +31,7 @@
 - .node-version
 - .npmpackagejsonlintrc.json
 - .npmrc
-- nuxt.config.js
+- [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
 - .nvmrc
 - [`package.json`](https://docs.npmjs.com/files/package.json) - Npm package metadata.
 - package-lock.json
