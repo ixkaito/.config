@@ -44,7 +44,7 @@
 - .ruby-version
 - stylelint.config.js
 - .stylelintrc.json
-- tailwind.config.js
+- [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS configuration.
 - .travis.yml
 - [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
 - tslint.json
