@@ -46,8 +46,7 @@
 - .stylelintrc.json
 - tailwind.config.js
 - .travis.yml
-- tsconfig.json
-- tsconfig.base.json
+- [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
 - tslint.json
 - vue.config.js
 - [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
