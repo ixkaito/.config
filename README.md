@@ -45,7 +45,7 @@
 - stylelint.config.js
 - .stylelintrc.json
 - [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS configuration.
-- .travis.yml
+- [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings
 - [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
 - tslint.json
 - vue.config.js
