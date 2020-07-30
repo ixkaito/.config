@@ -34,7 +34,7 @@
 - .npmpackagejsonlintrc.json
 - [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
 - [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
-- .nvmrc
+- [`.nvmrc`](https://github.com/nvm-sh/nvm#nvmrc) - nvm (Node Version Manager) configuration.
 - [`package.json`](https://docs.npmjs.com/files/package.json) - npm package metadata.
 - package-lock.json
 - postcss.config.js
