@@ -29,6 +29,7 @@
 - .markdownlint.json
 - .markdownlintignore
 - .metadata
+- netlify.toml
 - .node-version
 - .npmpackagejsonlintrc.json
 - [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
