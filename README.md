@@ -36,7 +36,7 @@
 - [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
 - [`.nvmrc`](https://github.com/nvm-sh/nvm#nvmrc) - nvm (Node Version Manager) configuration.
 - [`package.json`](https://docs.npmjs.com/files/package.json) - npm package metadata.
-- postcss.config.js
+- [`postcss.config.js`](https://github.com/postcss/postcss#postcss-) - PostCSS configuration.
 - [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
 - [`.prettierrc`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.js`, `prettier.config.js`, `.prettierrc.toml`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
 - pubspec.lock
