@@ -51,6 +51,7 @@
 - [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
 - tslint.json
 - vue.config.js
+- .watchmanconfig
 - [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
 - wp-cli.yml
 - .wp-env.json
