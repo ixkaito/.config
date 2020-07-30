@@ -17,6 +17,7 @@
 - .gitattributes
 - .gitconfig
 - .gitignore
+- .gitlab-ci.yml
 - Gemfile
 - Gemfile.lock
 - husky.config.js
