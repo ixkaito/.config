@@ -16,8 +16,7 @@
 - .dockerignore
 - .editorconfig
 - .eslintignore
-- .eslintrc
-- .eslintrc.js
+- [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint configuration file.
 - gatsby-config.js
 - .gitattributes
 - .gitconfig
