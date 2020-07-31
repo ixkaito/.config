@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="media/logo.svg" alt=".config" width="590" height="305">
+  <img src="media/logo.svg" alt=".config" width="590" height="305"><br>
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ixkaito/.config/pulls)
 </h1>
 
 - api.config.js
