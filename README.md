@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="media/logo.svg" alt=".config" width="590" height="305"><br>
   <a href="https://github.com/ixkaito/.config/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&logo=github" alt="PRs Welcome">
   </a>
 </h1>
 
