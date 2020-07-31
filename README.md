@@ -53,7 +53,7 @@
 - [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS configuration.
 - [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings
 - [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
-- tslint.json
+- [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.
 - [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
 - [`~/.vuerc`](https://cli.vuejs.org/config/#global-cli-config) - Vue global CLI config.
 - .watchmanconfig
