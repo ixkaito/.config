@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
   <img src="media/logo.svg" alt=".config" width="590" height="305">
-</div>
+</h1>
 
 - api.config.js
 - azure-pipelines.yml
