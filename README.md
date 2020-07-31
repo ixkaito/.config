@@ -42,12 +42,12 @@
 - [`package.json`](https://docs.npmjs.com/files/package.json) - npm package metadata.
 - [`postcss.config.js`](https://github.com/postcss/postcss#postcss-) - PostCSS configuration.
 - [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
-- [`.prettierrc`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.js`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
+- [`.prettierrc`, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
 - pubspec.lock
 - pubspec.yaml
 - renovate.json
 - .ruby-version
-- [`.stylelintrc`, `.stylelintrc.json`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `.stylelintrc.js`, `stylelintrc.config.js`](https://stylelint.io/user-guide/configure) - stylelint configuration.
+- [`.stylelintrc`, `.stylelintrc.js`, `.stylelintrc.json`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `stylelintrc.config.js`](https://stylelint.io/user-guide/configure) - stylelint configuration.
 - [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS configuration.
 - [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings
 - [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
