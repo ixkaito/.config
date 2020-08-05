@@ -10,8 +10,7 @@
 - [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
 - [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
 - [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
-- composer.json
-- composer.lock
+- [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup) - Composer project setup.
 - [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
 - .dockerignore
 - .editorconfig
