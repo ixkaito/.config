@@ -16,7 +16,7 @@
 - [`.editorconfig`](https://editorconfig.org/) - Defining coding styles across various editors and IDEs.
 - [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
 - [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint configuration file.
-- gatsby-config.js
+- [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
 - .gitattributes
 - .gitconfig
 - .gitignore
