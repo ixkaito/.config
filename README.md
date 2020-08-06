@@ -21,7 +21,7 @@
 - [`.gitignore`](https://git-scm.com/docs/gitignore) - To specify intentionally untracked files that Git should ignore.
 - [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
 - [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
-- husky.config.js
+- [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
 - jest.config.js
 - jsconfig.json
 - .jshintignore
@@ -39,7 +39,7 @@
 - [`package.json`](https://docs.npmjs.com/files/package.json) - npm package metadata.
 - [`postcss.config.js`](https://github.com/postcss/postcss#postcss-) - PostCSS configuration.
 - [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
-- [`.prettierrc`, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
+- [`.prettierrc``, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
 - pubspec.lock
 - pubspec.yaml
 - renovate.json
