@@ -22,7 +22,7 @@
 - [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
 - [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
 - [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
-- jest.config.js
+- [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
 - jsconfig.json
 - .jshintignore
 - lerna.json
