@@ -17,7 +17,7 @@
 - [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
 - [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint configuration file.
 - [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
-- .gitattributes
+- [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
 - .gitconfig
 - .gitignore
 - .gitlab-ci.yml
