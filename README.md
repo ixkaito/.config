@@ -12,7 +12,9 @@
   - Babel is a JavaScript compiler for next generation JavaScript.
 - [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files)
   - Babel file-relative configuration.
-- [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
+- [`.browserslistrc`](https://github.com/browserslist/browserslist)
+  - Browserslist config.
+  - Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
 - [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup) - Composer project setup.
 - [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
 - [`.dockerignore`](https://docs.docker.com/engine/reference/builder/#dockerignore-file) - To exclude files and directories in Docker build.
