@@ -9,18 +9,18 @@
 - azure-pipelines.yml
 - [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files)
   - Babel project-wide configuration.
-  - Babel is a JavaScript compiler for next generation JavaScript.
+    - Babel is a JavaScript compiler for next generation JavaScript.
 - [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files)
   - Babel file-relative configuration.
 - [`.browserslistrc`](https://github.com/browserslist/browserslist)
   - Browserslist config.
-  - Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
+    - Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
 - [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup)
   - Composer project setup.
-  - Composer is a dependency manager for PHP.
+    - Composer is a dependency manager for PHP.
 - [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/)
   - Jekyll configuration.
-  - Jekyll is a blog-aware static site generator in Ruby.
+    - Jekyll is a blog-aware static site generator in Ruby.
 - [`.dockerignore`](https://docs.docker.com/engine/reference/builder/#dockerignore-file) - To exclude files and directories in Docker build.
 - [`.editorconfig`](https://editorconfig.org/) - Defining coding styles across various editors and IDEs.
 - [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
