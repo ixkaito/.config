@@ -24,7 +24,7 @@
 - [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
 - [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
 - [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A descendant of tsconfig.json to specify the options for the features provided by the JavaScript language service.
-- lerna.json
+- [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna configuration file.
 - lint-staged.config.js
 - .markdownlint.json
 - .markdownlintignore
