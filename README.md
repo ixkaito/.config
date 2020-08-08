@@ -18,7 +18,9 @@
 - [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup)
   - Composer project setup.
   - Composer is a dependency manager for PHP.
-- [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
+- [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/)
+  - Jekyll configuration.
+  - Jekyll is a blog-aware static site generator in Ruby.
 - [`.dockerignore`](https://docs.docker.com/engine/reference/builder/#dockerignore-file) - To exclude files and directories in Docker build.
 - [`.editorconfig`](https://editorconfig.org/) - Defining coding styles across various editors and IDEs.
 - [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
