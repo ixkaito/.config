@@ -34,6 +34,7 @@
 - [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
   - Husky is a tool that makes Git hooks easy.
 - [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
+  - Jest is a JavaScript testing framework.
 - [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A descendant of tsconfig.json to specify the options for the features provided by the JavaScript language service.
 - [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna configuration file.
   - Lerna is a tool for managing JavaScript projects with multiple packages.
