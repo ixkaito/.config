@@ -30,6 +30,7 @@
 - [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
   - GitLab is a Git-repository hosting service.
 - [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
+  - RubyGems is a package manager for the Ruby programming language.
 - [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
 - [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
 - [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A descendant of tsconfig.json to specify the options for the features provided by the JavaScript language service.
