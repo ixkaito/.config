@@ -25,6 +25,7 @@
 - [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
   - Gatsby is a static site generator based on React.
 - [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
+  - Git is a distributed version control system for tracking changes in source code.
 - [`.gitignore`](https://git-scm.com/docs/gitignore) - To specify intentionally untracked files that Git should ignore.
 - [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
 - [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
