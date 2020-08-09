@@ -20,8 +20,10 @@
   - Docker is an engine to package any application and all its dependencies in a container that can run on any infrastructure.
 - [`.editorconfig`](https://editorconfig.org/) - Defining coding styles across various editors and IDEs.
 - [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
+  - ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
 - [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint configuration file.
 - [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
+  - Gatsby is a static site generator based on React.
 - [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
 - [`.gitignore`](https://git-scm.com/docs/gitignore) - To specify intentionally untracked files that Git should ignore.
 - [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
