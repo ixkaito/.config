@@ -8,36 +8,36 @@
 - api.config.js
 - azure-pipelines.yml
 - [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
-  - Babel is a JavaScript compiler for next generation JavaScript.
 - [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
+  > Babel is a JavaScript compiler for next generation JavaScript.
 - [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
-  - Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
+  > Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
 - [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup) - Composer project setup.
-  - Composer is a dependency manager for PHP.
+  > Composer is a dependency manager for PHP.
 - [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
-  - Jekyll is a blog-aware static site generator in Ruby.
+  > Jekyll is a blog-aware static site generator in Ruby.
 - [`.dockerignore`](https://docs.docker.com/engine/reference/builder/#dockerignore-file) - To exclude files and directories in Docker build.
-  - Docker is an engine to package any application and all its dependencies in a container that can run on any infrastructure.
+  > Docker is an engine to package any application and all its dependencies in a container that can run on any infrastructure.
 - [`.editorconfig`](https://editorconfig.org/) - Defining coding styles across various editors and IDEs.
 - [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
-  - ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
 - [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint configuration file.
+  > ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
 - [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
-  - Gatsby is a static site generator based on React.
+  > Gatsby is a static site generator based on React.
 - [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
-  - Git is a distributed version control system for tracking changes in source code.
+  > Git is a distributed version control system for tracking changes in source code.
 - [`.gitignore`](https://git-scm.com/docs/gitignore) - To specify intentionally untracked files that Git should ignore.
 - [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
-  - GitLab is a Git-repository hosting service.
+  > GitLab is a Git-repository hosting service.
 - [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
-  - RubyGems is a package manager for the Ruby programming language.
+  > RubyGems is a package manager for the Ruby programming language.
 - [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
-  - Husky is a tool that makes Git hooks easy.
+  > Husky is a tool that makes Git hooks easy.
 - [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
-  - Jest is a JavaScript testing framework.
+  > Jest is a JavaScript testing framework.
 - [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A descendant of tsconfig.json to specify the options for the features provided by the JavaScript language service.
 - [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna configuration file.
-  - Lerna is a tool for managing JavaScript projects with multiple packages.
+  > gLerna is a tool for managing JavaScript projects with multiple packages.
 - lint-staged.config.js
 - .markdownlint.json
 - .markdownlintignore
