@@ -53,6 +53,7 @@
   > nvm is a version manager for node.js, designed to be installed per-user, and invoked per-shell.
 - [`package.json`](https://docs.npmjs.com/files/package.json) - npm package metadata.
 - [`postcss.config.js`](https://github.com/postcss/postcss#postcss-) - PostCSS configuration.
+  > PostCSS is a tool for transforming CSS with JavaScript.
 - [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
 - [`.prettierrc`, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
 - pubspec.lock
