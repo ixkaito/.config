@@ -56,6 +56,7 @@
   > PostCSS is a tool for transforming CSS with JavaScript.
 - [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
 - [`.prettierrc`, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
+  > Prettier is an opinionated code formatter.
 - pubspec.lock
 - pubspec.yaml
 - renovate.json
