@@ -64,6 +64,7 @@
 - [`.stylelintrc`, `.stylelintrc.js`, `.stylelintrc.json`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `stylelintrc.config.js`](https://stylelint.io/user-guide/configure) - stylelint configuration.
   > stylelint is a mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS configuration.
+  > Tailwind CSS is a utility-first CSS framework for rapidly building custom designs.
 - [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings
 - [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
 - [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.
