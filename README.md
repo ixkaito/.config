@@ -72,7 +72,7 @@
 - [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.
   > :warning: TSLint has been deprecated as of 2019. TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
 - [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
-- [`~/.vuerc`](https://cli.vuejs.org/config/#global-cli-config) - Vue global CLI config.
+  > Vue.js is a model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
 - .watchmanconfig
 - [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
 - wp-cli.yml
