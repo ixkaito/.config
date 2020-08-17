@@ -75,6 +75,7 @@
   > Vue.js is a model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
 - .watchmanconfig
 - [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
+  > webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 - wp-cli.yml
 - .wp-env.json
 - yarn.lock
