@@ -68,6 +68,7 @@
 - [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings
   > Travis CI is a hosted continuous integration and deployment system.
 - [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
+  > TypeScript is a strict syntactical superset of JavaScript and adds optional static typing to the language.
 - [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.
 - [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
 - [`~/.vuerc`](https://cli.vuejs.org/config/#global-cli-config) - Vue global CLI config.
