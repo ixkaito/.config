@@ -66,6 +66,7 @@
 - [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS configuration.
   > Tailwind CSS is a utility-first CSS framework for rapidly building custom designs.
 - [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings
+  > Travis CI is a hosted continuous integration and deployment system.
 - [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
 - [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.
 - [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
