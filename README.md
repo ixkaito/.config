@@ -38,7 +38,7 @@
 - [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A descendant of tsconfig.json to specify the options for the features provided by the JavaScript language service.
 - [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna configuration file.
   > gLerna is a tool for managing JavaScript projects with multiple packages.
-- lint-staged.config.js
+- [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged configuration.
 - .markdownlint.json
 - .markdownlintignore
 - .metadata
