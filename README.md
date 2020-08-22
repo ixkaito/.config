@@ -40,7 +40,7 @@
   > gLerna is a tool for managing JavaScript projects with multiple packages.
 - [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged configuration.
   > lint-staged runs linters against staged git files.
-- .markdownlint.json
+- [`.markdownlint.json`](https://github.com/DavidAnson/markdownlint#config) - markdownlint config file.
 - .markdownlintignore
 - .metadata
 - netlify.toml
