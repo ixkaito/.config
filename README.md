@@ -39,6 +39,7 @@
 - [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna configuration file.
   > gLerna is a tool for managing JavaScript projects with multiple packages.
 - [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged configuration.
+  > lint-staged runs linters against staged git files.
 - .markdownlint.json
 - .markdownlintignore
 - .metadata
