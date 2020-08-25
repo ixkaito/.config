@@ -42,7 +42,7 @@
   > lint-staged runs linters against staged git files.
 - [`.markdownlint.json`](https://github.com/DavidAnson/markdownlint#config) - markdownlint config file.
   > markdownlint is a Node.js style checker and lint tool for Markdown/CommonMark files.
-- netlify.toml
+- [`netlify.toml`](https://docs.netlify.com/configure-builds/file-based-configuration/) - Netlify file-based configuration
 - .node-version
 - .npmpackagejsonlintrc.json
 - [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
