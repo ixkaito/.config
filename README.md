@@ -46,7 +46,6 @@
   > Netlify is a platform that offers hosting and serverless backend services for web applications and static websites. 
 - [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - Node version configuration for nodenv.
   > nodenv is a version manager for Node.js.
-- .npmpackagejsonlintrc.json
 - [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
   > npm (originally short for Node Package Manager) is a package manager for the JavaScript programming language.
 - [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
