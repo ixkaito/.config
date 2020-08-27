@@ -77,7 +77,7 @@
 - .watchmanconfig
 - [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
   > webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
-- wp-cli.yml
+- [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI config files.
 - .wp-env.json
 - yarn.lock
 - .yarnrc
