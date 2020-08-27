@@ -80,5 +80,6 @@
 - [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI config files.
   > WP-CLI is the official command line tool for interacting with and managing your WordPress sites.
 - [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env customization.
+  > wp-env lets you easily set up a local WordPress environment for building and testing plugins and themes.
 - yarn.lock
 - .yarnrc
