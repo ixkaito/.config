@@ -75,6 +75,7 @@
 - [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
   > Vue.js is a model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
 - [`.watchmanconfig`](https://facebook.github.io/watchman/docs/config.html) - Watchman configuration file.
+  > Watchman exists to watch files and record when they change. It can also trigger actions (such as rebuilding assets) when matching files change.
 - [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
   > webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 - [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI config files.
