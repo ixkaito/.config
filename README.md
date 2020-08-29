@@ -84,7 +84,7 @@
   > webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 - [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI config files.
   > WP-CLI is the official command line tool for interacting with and managing your WordPress sites.
-- [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env customization.
+- [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env configuration.
   > wp-env lets you easily set up a local WordPress environment for building and testing plugins and themes.
 - [`.yarnrc`](https://classic.yarnpkg.com/en/docs/yarnrc/) - Allows you to configure additional Yarn features.
   > Yarn is an alternative to npm for installing modular JavaScript.
