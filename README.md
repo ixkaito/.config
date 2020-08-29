@@ -82,5 +82,4 @@
   > WP-CLI is the official command line tool for interacting with and managing your WordPress sites.
 - [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env customization.
   > wp-env lets you easily set up a local WordPress environment for building and testing plugins and themes.
-- yarn.lock
 - .yarnrc
