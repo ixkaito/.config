@@ -83,3 +83,4 @@
 - [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env customization.
   > wp-env lets you easily set up a local WordPress environment for building and testing plugins and themes.
 - [`.yarnrc`](https://classic.yarnpkg.com/en/docs/yarnrc/) - Allows you to configure additional Yarn features.
+  > Yarn is an alternative to npm for installing modular JavaScript.
