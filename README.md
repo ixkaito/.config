@@ -62,7 +62,8 @@
 - [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
 - [`.prettierrc`, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
   > Prettier is an opinionated code formatter.
-- [`pubspec.yaml`](https://dart.dev/tools/pub/pubspec) - Dart package (pub package) metadata.
+- [`pubspec.yaml`](https://dart.dev/tools/pub/pubspec) - A file that lists package dependencies and includes other metadata, such as a version number for pub packages.
+  > pub is a package manager for the Dart programming language.
 - renovate.json
 - .ruby-version
 - [`.stylelintrc`, `.stylelintrc.js`, `.stylelintrc.json`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `stylelintrc.config.js`](https://stylelint.io/user-guide/configure) - stylelint configuration.
