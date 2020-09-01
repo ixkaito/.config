@@ -48,6 +48,7 @@
   > markdownlint is a Node.js style checker and lint tool for Markdown/CommonMark files.
 - [`netlify.toml`](https://docs.netlify.com/configure-builds/file-based-configuration/) - Netlify file-based configuration
   > Netlify is a platform that offers hosting and serverless backend services for web applications and static websites. 
+- next.config.js
 - [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - Node version configuration for nodenv.
   > nodenv is a version manager for Node.js.
 - [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
