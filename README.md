@@ -14,7 +14,7 @@
   > Babel is a JavaScript compiler for next generation JavaScript.
 - <img width="16" alt="Browserlist icon" src="https://user-images.githubusercontent.com/5457539/91787075-ff651500-ec43-11ea-8318-4607c103a242.png"> [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
   > Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
-- [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup) - Composer project setup.
+- <img width="16" alt="Composer icon" src="https://user-images.githubusercontent.com/5457539/91787690-6505d100-ec45-11ea-9417-741601361e83.png"> [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup) - Composer project setup.
   > Composer is a dependency manager for PHP.
 - [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
   > Jekyll is a blog-aware static site generator in Ruby.
