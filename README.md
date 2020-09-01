@@ -12,7 +12,7 @@
 - <img width="16" alt="Babel icon" src="https://user-images.githubusercontent.com/5457539/91786715-325ad900-ec43-11ea-943d-f254cb4d94e5.png"> [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
 - <img width="16" alt="Babel icon" src="https://user-images.githubusercontent.com/5457539/91786715-325ad900-ec43-11ea-943d-f254cb4d94e5.png"> [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
   > Babel is a JavaScript compiler for next generation JavaScript.
-- [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
+- <img width="16" alt="Browserlist icon" src="https://user-images.githubusercontent.com/5457539/91787075-ff651500-ec43-11ea-8318-4607c103a242.png"> [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
   > Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
 - [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup) - Composer project setup.
   > Composer is a dependency manager for PHP.
