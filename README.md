@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&logo=github" alt="PRs Welcome">
   </a><br>
   <br>
-  .config is a list of configuration files for various development tools.
+  <strong>.config</strong> is a list of configuration files for various development tools.
 </p>
 
 ----
