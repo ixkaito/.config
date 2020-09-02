@@ -18,7 +18,7 @@
   > Composer is a dependency manager for PHP.
 - <img width="16" alt="Jekyll icon" src="https://user-images.githubusercontent.com/5457539/91940837-15053800-ed33-11ea-8f99-1724a5dcc50b.png"> [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
   > Jekyll is a blog-aware static site generator in Ruby.
-- [`.dockerignore`](https://docs.docker.com/engine/reference/builder/#dockerignore-file) - To exclude files and directories in Docker build.
+- <img width="16" alt="Docker icon" src="https://user-images.githubusercontent.com/5457539/91941251-e176dd80-ed33-11ea-840e-2852eef9df6d.png"> [`.dockerignore`](https://docs.docker.com/engine/reference/builder/#dockerignore-file) - To exclude files and directories in Docker build.
   > Docker is an engine to package any application and all its dependencies in a container that can run on any infrastructure.
 - [`.editorconfig`](https://editorconfig.org/) - Defining coding styles across various editors and IDEs.
 - [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
