@@ -16,7 +16,7 @@
   > Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
 - <img width="16" alt="Composer icon" src="https://user-images.githubusercontent.com/5457539/91787690-6505d100-ec45-11ea-9417-741601361e83.png"> [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup) - Composer project setup.
   > Composer is a dependency manager for PHP.
-- [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
+- <img width="16" alt="Jekyll icon" src="https://user-images.githubusercontent.com/5457539/91940837-15053800-ed33-11ea-8f99-1724a5dcc50b.png"> [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
   > Jekyll is a blog-aware static site generator in Ruby.
 - [`.dockerignore`](https://docs.docker.com/engine/reference/builder/#dockerignore-file) - To exclude files and directories in Docker build.
   > Docker is an engine to package any application and all its dependencies in a container that can run on any infrastructure.
