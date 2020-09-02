@@ -21,6 +21,7 @@
 - <img width="16" alt="Docker icon" src="https://user-images.githubusercontent.com/5457539/91941251-e176dd80-ed33-11ea-840e-2852eef9df6d.png"> [`.dockerignore`](https://docs.docker.com/engine/reference/builder/#dockerignore-file) - To exclude files and directories in Docker build.
   > Docker is an engine to package any application and all its dependencies in a container that can run on any infrastructure.
 - <img width="16" alt="EditorConfig icon" src="https://user-images.githubusercontent.com/5457539/91941585-682bba80-ed34-11ea-8ef3-77c717f281a6.png"> [`.editorconfig`](https://editorconfig.org/) - Defining coding styles across various editors and IDEs.
+  > EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 - [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
 - [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint configuration file.
   > ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
