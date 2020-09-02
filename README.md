@@ -22,8 +22,8 @@
   > Docker is an engine to package any application and all its dependencies in a container that can run on any infrastructure.
 - <img width="16" alt="EditorConfig icon" src="https://user-images.githubusercontent.com/5457539/91941970-1d5e7280-ed35-11ea-931d-e4a26b04f947.png"> [`.editorconfig`](https://editorconfig.org/) - Defining coding styles across various editors and IDEs.
   > EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
-- [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
-- [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint configuration file.
+- <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
+- <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint configuration file.
   > ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
 - [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
   > Gatsby is a static site generator based on React.
