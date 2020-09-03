@@ -27,9 +27,9 @@
   > ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
 - <img width="16" alt="Gatsby icon" src="https://user-images.githubusercontent.com/5457539/92080236-29613780-edfc-11ea-826e-e2e41db45dd7.png"> [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
   > Gatsby is a static site generator based on React.
-- [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
+- <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
   > Git is a distributed version control system for tracking changes in source code.
-- [`.gitignore`](https://git-scm.com/docs/gitignore) - To specify intentionally untracked files that Git should ignore.
+- <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitignore`](https://git-scm.com/docs/gitignore) - To specify intentionally untracked files that Git should ignore.
 - [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
   > GitLab is a Git-repository hosting service.
 - [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
