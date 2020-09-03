@@ -25,7 +25,7 @@
 - <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - To ignore specific files and directories from linting by ESLint.
 - <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint configuration file.
   > ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
-- [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
+- <img width="16" alt="Gatsby icon" src="https://user-images.githubusercontent.com/5457539/92080236-29613780-edfc-11ea-826e-e2e41db45dd7.png"> [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
   > Gatsby is a static site generator based on React.
 - [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
   > Git is a distributed version control system for tracking changes in source code.
