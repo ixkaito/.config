@@ -30,7 +30,7 @@
 - <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
   > Git is a distributed version control system for tracking changes in source code.
 - <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitignore`](https://git-scm.com/docs/gitignore) - To specify intentionally untracked files that Git should ignore.
-- [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
+- <img width="16" alt="GitLab icon" src="https://user-images.githubusercontent.com/5457539/92081352-e1dbab00-edfd-11ea-81fd-f28cc8f896c0.png"> [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
   > GitLab is a Git-repository hosting service.
 - [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
   > RubyGems is a package manager for the Ruby programming language.
