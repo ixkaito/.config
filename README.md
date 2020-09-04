@@ -38,7 +38,7 @@
   > Husky is a tool that makes Git hooks easy.
 - <img width="16" alt="Jest icon" src="https://user-images.githubusercontent.com/5457539/92233917-19c11c00-eeec-11ea-8532-cb2c7ceb2cfb.png"> [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
   > Jest is a JavaScript testing framework.
-- [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A descendant of tsconfig.json to specify the options for the features provided by the JavaScript language service.
+- [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A file to specify the options for the features provided by the JavaScript language service.
 - [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna configuration file.
   > gLerna is a tool for managing JavaScript projects with multiple packages.
 - [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged configuration.
