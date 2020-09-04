@@ -34,7 +34,7 @@
   > GitLab is a Git-repository hosting service.
 - <img width="16" alt="RubyGems icon" src="https://user-images.githubusercontent.com/5457539/92232839-2e041980-eeea-11ea-86a9-16d9e08a4d26.png"> [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
   > RubyGems is a package manager for the Ruby programming language.
-- [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
+- <img width="16" alt="Husky icon" src="https://user-images.githubusercontent.com/5457539/92233561-753eda00-eeeb-11ea-9a96-715ccddc5fcb.png"> [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
   > Husky is a tool that makes Git hooks easy.
 - [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
   > Jest is a JavaScript testing framework.
