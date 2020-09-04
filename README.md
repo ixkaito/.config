@@ -36,7 +36,7 @@
   > RubyGems is a package manager for the Ruby programming language.
 - <img width="16" alt="Husky icon" src="https://user-images.githubusercontent.com/5457539/92233561-753eda00-eeeb-11ea-9a96-715ccddc5fcb.png"> [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
   > Husky is a tool that makes Git hooks easy.
-- [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
+- <img width="16" alt="Jest icon" src="https://user-images.githubusercontent.com/5457539/92233917-19c11c00-eeec-11ea-8532-cb2c7ceb2cfb.png"> [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
   > Jest is a JavaScript testing framework.
 - [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A descendant of tsconfig.json to specify the options for the features provided by the JavaScript language service.
 - [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna configuration file.
