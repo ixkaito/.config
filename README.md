@@ -43,7 +43,7 @@
   > gLerna is a tool for managing JavaScript projects with multiple packages.
 - [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged configuration.
   > lint-staged runs linters against staged git files.
-- [`.markdownlint.json`](https://github.com/DavidAnson/markdownlint#config) - markdownlint config file.
+- <img width="16" alt="markdownlint icon" src="https://user-images.githubusercontent.com/5457539/92300816-f011fe80-ef98-11ea-99ab-86c1df323a82.png"> [`.markdownlint.json`](https://github.com/DavidAnson/markdownlint#config) - markdownlint config file.
   > markdownlint is a Node.js style checker and lint tool for Markdown/CommonMark files.
 - [`netlify.toml`](https://docs.netlify.com/configure-builds/file-based-configuration/) - Netlify file-based configuration
   > Netlify is a platform that offers hosting and serverless backend services for web applications and static websites. 
