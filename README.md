@@ -49,7 +49,7 @@
   > Netlify is a platform that offers hosting and serverless backend services for web applications and static websites. 
 - <img width="16" alt="Next.js icon" src="https://user-images.githubusercontent.com/5457539/92300974-6f540200-ef9a-11ea-8240-f4b535146914.png"> [`next.config.js`](https://nextjs.org/docs/api-reference/next.config.js/introduction) - Next.js configuration file.
   > Next.js is a React framework which gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
-- [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - Node version configuration for nodenv.
+- <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - Node version configuration for nodenv.
   > nodenv is a version manager for Node.js.
 - [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
   > npm (originally short for Node Package Manager) is a package manager for the JavaScript programming language.
