@@ -51,7 +51,7 @@
   > Next.js is a React framework which gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
 - <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - Node version configuration for nodenv.
   > nodenv is a version manager for Node.js.
-- [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
+- <img width="16" alt="npm icon" src="https://user-images.githubusercontent.com/5457539/92317593-a4fdf700-f03d-11ea-82a4-c71d76e2d476.png"> [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
   > npm (originally short for Node Package Manager) is a package manager for the JavaScript programming language.
 - [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
   > Nuxt.js is a progressive framework based on Vue.js to create modern web applications.
