@@ -57,7 +57,7 @@
   > Nuxt.js is a progressive framework based on Vue.js to create modern web applications.
 - <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.nvmrc`](https://github.com/nvm-sh/nvm#nvmrc) - nvm (Node Version Manager) configuration.
   > nvm is a version manager for node.js, designed to be installed per-user, and invoked per-shell.
-- [`package.json`](https://docs.npmjs.com/files/package.json) - A file that lists package dependencies and includes other metadata for npm package.
+- <img width="16" alt="npm icon" src="https://user-images.githubusercontent.com/5457539/92317593-a4fdf700-f03d-11ea-82a4-c71d76e2d476.png"> [`package.json`](https://docs.npmjs.com/files/package.json) - A file that lists package dependencies and includes other metadata for npm package.
 - [`postcss.config.js`](https://github.com/postcss/postcss#postcss-) - PostCSS configuration.
   > PostCSS is a tool for transforming CSS with JavaScript.
 - [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
