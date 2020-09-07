@@ -67,7 +67,7 @@
   > pub is a package manager for the Dart programming language.
 - <img width="16" alt="Renovate icon" src="https://user-images.githubusercontent.com/5457539/92366275-e8389280-f12f-11ea-8e7b-fc09f562d269.png"> [`renovate.json`](https://docs.renovatebot.com/configuration-options/) - Renovate configuration file.
   > Renovate keeps source code dependencies up-to-date with multi-platform and multi-language using automated Pull Requests.
-- `.ruby-version` - Ruby version configuration for [rbenv](https://github.com/rbenv/rbenv#choosing-the-ruby-version) or [RVM](https://github.com/rvm/rvm#switching-between-ruby-versions).
+- <img width="16" alt="Ruby icon" src="https://user-images.githubusercontent.com/5457539/92367305-339f7080-f131-11ea-8fe6-c2e4030aa697.png"> `.ruby-version` - Ruby version configuration for [rbenv](https://github.com/rbenv/rbenv#choosing-the-ruby-version) or [RVM](https://github.com/rvm/rvm#switching-between-ruby-versions).
   > rbenv and RVM are Ruby environment (version) managers.
 - [`.stylelintrc`, `.stylelintrc.js`, `.stylelintrc.json`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `stylelintrc.config.js`](https://stylelint.io/user-guide/configure) - stylelint configuration.
   > stylelint is a mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
