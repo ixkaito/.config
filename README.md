@@ -69,7 +69,7 @@
   > Renovate keeps source code dependencies up-to-date with multi-platform and multi-language using automated Pull Requests.
 - <img width="16" alt="Ruby icon" src="https://user-images.githubusercontent.com/5457539/92367305-339f7080-f131-11ea-8fe6-c2e4030aa697.png"> `.ruby-version` - Ruby version configuration for [rbenv](https://github.com/rbenv/rbenv#choosing-the-ruby-version) or [RVM](https://github.com/rvm/rvm#switching-between-ruby-versions).
   > rbenv and RVM are Ruby environment (version) managers.
-- [`.stylelintrc`, `.stylelintrc.js`, `.stylelintrc.json`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `stylelintrc.config.js`](https://stylelint.io/user-guide/configure) - stylelint configuration.
+- <img width="16" alt="stylelint icon" src="https://user-images.githubusercontent.com/5457539/92367952-0dc69b80-f132-11ea-9c89-e34c86bc6ec6.png"> [`.stylelintrc`, `.stylelintrc.js`, `.stylelintrc.json`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `stylelintrc.config.js`](https://stylelint.io/user-guide/configure) - stylelint configuration.
   > stylelint is a mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS configuration.
   > Tailwind CSS is a utility-first CSS framework for rapidly building custom designs.
