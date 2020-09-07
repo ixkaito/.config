@@ -63,7 +63,7 @@
 - <img width="16" alt="Prettier icon" src="https://user-images.githubusercontent.com/5457539/92318115-9239f100-f042-11ea-873b-fa47909fed0b.png"> [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
 - <img width="16" alt="Prettier icon" src="https://user-images.githubusercontent.com/5457539/92318115-9239f100-f042-11ea-873b-fa47909fed0b.png"> [`.prettierrc`, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
   > Prettier is an opinionated code formatter.
-- [`pubspec.yaml`](https://dart.dev/tools/pub/pubspec) - A file that lists package dependencies and includes other metadata, such as a version number for pub packages.
+- <img width="16" alt="Dart icon" src="https://user-images.githubusercontent.com/5457539/92365256-becb3700-f12e-11ea-85c9-95390a7000eb.png"> [`pubspec.yaml`](https://dart.dev/tools/pub/pubspec) - A file that lists package dependencies and includes other metadata, such as a version number for pub packages.
   > pub is a package manager for the Dart programming language.
 - [`renovate.json`](https://docs.renovatebot.com/configuration-options/) - Renovate configuration file.
   > Renovate keeps source code dependencies up-to-date with multi-platform and multi-language using automated Pull Requests.
