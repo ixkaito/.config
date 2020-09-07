@@ -65,7 +65,7 @@
   > Prettier is an opinionated code formatter.
 - <img width="16" alt="Dart icon" src="https://user-images.githubusercontent.com/5457539/92365256-becb3700-f12e-11ea-85c9-95390a7000eb.png"> [`pubspec.yaml`](https://dart.dev/tools/pub/pubspec) - A file that lists package dependencies and includes other metadata, such as a version number for pub packages.
   > pub is a package manager for the Dart programming language.
-- [`renovate.json`](https://docs.renovatebot.com/configuration-options/) - Renovate configuration file.
+- <img width="16" alt="Renovate icon" src="https://user-images.githubusercontent.com/5457539/92366275-e8389280-f12f-11ea-8e7b-fc09f562d269.png"> [`renovate.json`](https://docs.renovatebot.com/configuration-options/) - Renovate configuration file.
   > Renovate keeps source code dependencies up-to-date with multi-platform and multi-language using automated Pull Requests.
 - `.ruby-version` - Ruby version configuration for [rbenv](https://github.com/rbenv/rbenv#choosing-the-ruby-version) or [RVM](https://github.com/rvm/rvm#switching-between-ruby-versions).
   > rbenv and RVM are Ruby environment (version) managers.
