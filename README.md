@@ -75,9 +75,9 @@
   > Tailwind CSS is a utility-first CSS framework for rapidly building custom designs.
 - <img width="16" alt="Travis CI icon" src="https://user-images.githubusercontent.com/5457539/92437952-e4197d00-f1e2-11ea-82fa-b0e5ca2e16ae.png"> [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings
   > Travis CI is a hosted continuous integration and deployment system.
-- [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
+- <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
   > TypeScript is a strict syntactical superset of JavaScript and adds optional static typing to the language.
-- [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.
+- <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.
   > :warning: TSLint has been deprecated as of 2019. TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
 - [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
   > Vue.js is a model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
