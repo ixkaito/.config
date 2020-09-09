@@ -85,7 +85,7 @@
   > Watchman exists to watch files and record when they change. It can also trigger actions (such as rebuilding assets) when matching files change.
 - <img width="16" alt="Webpack icon" src="https://user-images.githubusercontent.com/5457539/92555732-489c1100-f2a3-11ea-84fd-d03d2ef2d33a.png"> [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
   > webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
-- [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI config files.
+- <img width="16" alt="WP-CLI icon" src="https://user-images.githubusercontent.com/5457539/92555947-bba58780-f2a3-11ea-8a63-6118c564aed5.png"> [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI config files.
   > WP-CLI is the official command line tool for interacting with and managing your WordPress sites.
 - [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env configuration.
   > wp-env lets you easily set up a local WordPress environment for building and testing plugins and themes.
