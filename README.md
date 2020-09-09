@@ -81,7 +81,7 @@
   > :warning: TSLint has been deprecated as of 2019. TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
 - <img width="16" alt="Vue js icon" src="https://user-images.githubusercontent.com/5457539/92555316-569d6200-f2a2-11ea-99a5-b6ac0d2551a8.png"> [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
   > Vue.js is a model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
-- [`.watchmanconfig`](https://facebook.github.io/watchman/docs/config.html) - Watchman configuration file.
+- <img width="16" alt="Watchman icon" src="https://user-images.githubusercontent.com/5457539/92555614-ff4bc180-f2a2-11ea-944a-83f385f7ed08.png"> [`.watchmanconfig`](https://facebook.github.io/watchman/docs/config.html) - Watchman configuration file.
   > Watchman exists to watch files and record when they change. It can also trigger actions (such as rebuilding assets) when matching files change.
 - [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
   > webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
