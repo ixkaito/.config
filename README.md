@@ -89,5 +89,5 @@
   > WP-CLI is the official command line tool for interacting with and managing your WordPress sites.
 - <img width="16" alt="WordPress icon" src="https://user-images.githubusercontent.com/5457539/92556692-8b5ee880-f2a5-11ea-8945-b250c97f2563.png"> [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env configuration.
   > wp-env lets you easily set up a local WordPress environment for building and testing plugins and themes.
-- [`.yarnrc`](https://classic.yarnpkg.com/en/docs/yarnrc/) - Allows you to configure additional Yarn features.
+- <img width="16" alt="Yarn icon" src="https://user-images.githubusercontent.com/5457539/92557166-8ea6a400-f2a6-11ea-98b8-ac1a910b0a04.png"> [`.yarnrc`](https://classic.yarnpkg.com/en/docs/yarnrc/) - Allows you to configure additional Yarn features.
   > Yarn is an alternative to npm for installing modular JavaScript.
