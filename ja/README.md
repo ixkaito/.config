@@ -5,9 +5,6 @@
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&logo=github" alt="PRs Welcome">
     </a>
   </p>
-  <!-- 
-  <p><strong>.config</strong> is a list of configuration files for various development tools.</p>
-  -->
   <p><strong>.config</strong> とは、さまざまな開発ツールの設定ファイルを集めたリストです。</p>
   <p>
     <a href="https://github.com/ixkaito/.config/blob/master/README.md">English</a>
@@ -18,8 +15,8 @@
 
 ----
 
-- <img width="16" alt="Babel icon" src="https://user-images.githubusercontent.com/5457539/92080392-76450e00-edfc-11ea-9827-c3685bc0014c.png"> [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel project-wide configuration.
-- <img width="16" alt="Babel icon" src="https://user-images.githubusercontent.com/5457539/91786715-325ad900-ec43-11ea-943d-f254cb4d94e5.png"> [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel file-relative configuration.
+- <img width="16" alt="Babel icon" src="https://user-images.githubusercontent.com/5457539/92080392-76450e00-edfc-11ea-9827-c3685bc0014c.png"> [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel プロジェクト全体の設定。
+- <img width="16" alt="Babel icon" src="https://user-images.githubusercontent.com/5457539/91786715-325ad900-ec43-11ea-943d-f254cb4d94e5.png"> [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel ファイル相対の設定。
   > Babel is a JavaScript compiler for next generation JavaScript.
 - <img width="16" alt="Browserlist icon" src="https://user-images.githubusercontent.com/5457539/91787075-ff651500-ec43-11ea-8318-4607c103a242.png"> [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
   > Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
