@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&logo=github" alt="PRs Welcome">
     </a>
   </p>
-  <p><strong>.config</strong> とは、さまざまな開発ツールの設定ファイルを集めたリストです。</p>
+  <p><strong>.config</strong> はさまざまな開発ツールの設定ファイルを集めたリストです。</p>
   <p>
     <a href="https://github.com/ixkaito/.config/blob/master/README.md">English</a>
     |
@@ -17,7 +17,7 @@
 
 - <img width="16" alt="Babel icon" src="https://user-images.githubusercontent.com/5457539/92080392-76450e00-edfc-11ea-9827-c3685bc0014c.png"> [`babel.config.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel プロジェクト全体の設定。
 - <img width="16" alt="Babel icon" src="https://user-images.githubusercontent.com/5457539/91786715-325ad900-ec43-11ea-943d-f254cb4d94e5.png"> [`.babelrc`, `.babelrc.js`](https://babeljs.io/docs/en/7.5.0/config-files) - Babel ファイル相対の設定。
-  > Babel is a JavaScript compiler for next generation JavaScript.
+  > Babel は次世代 JavaScript のためのコンパイラです。
 - <img width="16" alt="Browserlist icon" src="https://user-images.githubusercontent.com/5457539/91787075-ff651500-ec43-11ea-8318-4607c103a242.png"> [`.browserslistrc`](https://github.com/browserslist/browserslist) - Browserslist config.
   > Browserslist is the config to share target browsers and Node.js versions between different front-end tools.
 - <img width="16" alt="Composer icon" src="https://user-images.githubusercontent.com/5457539/91787690-6505d100-ec45-11ea-9417-741601361e83.png"> [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup) - Composer project setup.
@@ -34,8 +34,8 @@
 - <img width="16" alt="Gatsby icon" src="https://user-images.githubusercontent.com/5457539/92080236-29613780-edfc-11ea-826e-e2e41db45dd7.png"> [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
   > Gatsby is a static site generator based on React.
 - <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
-  > Git is a distributed version control system for tracking changes in source code.
 - <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitignore`](https://git-scm.com/docs/gitignore) - To specify intentionally untracked files that Git should ignore.
+  > Git is a distributed version control system for tracking changes in source code.
 - <img width="16" alt="GitLab icon" src="https://user-images.githubusercontent.com/5457539/92081352-e1dbab00-edfd-11ea-81fd-f28cc8f896c0.png"> [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
   > GitLab is a Git-repository hosting service.
 - <img width="16" alt="RubyGems icon" src="https://user-images.githubusercontent.com/5457539/92232839-2e041980-eeea-11ea-86a9-16d9e08a4d26.png"> [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
