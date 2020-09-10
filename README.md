@@ -6,7 +6,11 @@
     </a>
   </p>
   <p><strong>.config</strong> is a list of configuration files for various development tools.</p>
-  <p><a href="https://github.com/ixkaito/.config/blob/master/README.md">English</a></p>
+  <p>
+    <a href="https://github.com/ixkaito/.config/blob/master/README.md">English</a>
+    |
+    <a href="https://github.com/ixkaito/.config/tree/master/ja">日本語</a>
+  </p>
 </div>
 
 ----

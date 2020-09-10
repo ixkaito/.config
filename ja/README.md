@@ -1,12 +1,16 @@
 <div align="center">
-  <figure><img src="media/logo.svg" alt=".config" width="590" height="305"></figure>
+  <figure><img src="../media/logo.svg" alt=".config" width="590" height="305"></figure>
   <p>
     <a href="https://github.com/ixkaito/.config/pulls">
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&logo=github" alt="PRs Welcome">
     </a>
   </p>
   <p><strong>.config</strong> is a list of configuration files for various development tools.</p>
-  <p><a href="https://github.com/ixkaito/.config/blob/master/README.md">English</a></p>
+  <p>
+    <a href="https://github.com/ixkaito/.config/blob/master/README.md">English</a>
+    |
+    <a href="https://github.com/ixkaito/.config/tree/master/ja">日本語</a>
+  </p>
 </div>
 
 ----
