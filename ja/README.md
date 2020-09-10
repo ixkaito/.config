@@ -5,7 +5,10 @@
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&logo=github" alt="PRs Welcome">
     </a>
   </p>
+  <!-- 
   <p><strong>.config</strong> is a list of configuration files for various development tools.</p>
+  -->
+  <p><strong>.config</strong> とは、さまざまな開発ツールの設定ファイルを集めたリストです。</p>
   <p>
     <a href="https://github.com/ixkaito/.config/blob/master/README.md">English</a>
     |
