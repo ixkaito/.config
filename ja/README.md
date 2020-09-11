@@ -22,8 +22,8 @@
   > Browserslist は異なるフロントエンドツール間でターゲットブラウザや Node.js のバージョンを共有するための設定です。
 - <img width="16" alt="Composer icon" src="https://user-images.githubusercontent.com/5457539/91787690-6505d100-ec45-11ea-9417-741601361e83.png"> [`composer.json`](https://getcomposer.org/doc/01-basic-usage.md#composer-json-project-setup) - Composer プロジェクト設定。
   > Composer は PHP の依存関係マネージャーです。
-- <img width="16" alt="Jekyll icon" src="https://user-images.githubusercontent.com/5457539/92080523-a7bdd980-edfc-11ea-9d4f-1c569ac69a1a.png"> [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll configuration.
-  > Jekyll is a blog-aware static site generator in Ruby.
+- <img width="16" alt="Jekyll icon" src="https://user-images.githubusercontent.com/5457539/92080523-a7bdd980-edfc-11ea-9d4f-1c569ac69a1a.png"> [`_config.yml`, `_config.toml`](https://jekyllrb.com/docs/configuration/) - Jekyll の設定。
+  > Jekyll は Ruby で作られたブログ対応の静的サイトジェネレーターです。
 - <img width="16" alt="Docker icon" src="https://user-images.githubusercontent.com/5457539/91941251-e176dd80-ed33-11ea-840e-2852eef9df6d.png"> [`.dockerignore`](https://docs.docker.com/engine/reference/builder/#dockerignore-file) - To exclude files and directories in Docker build.
   > Docker is an engine to package any application and all its dependencies in a container that can run on any infrastructure.
 - <img width="16" alt="EditorConfig icon" src="https://user-images.githubusercontent.com/5457539/91941970-1d5e7280-ed35-11ea-931d-e4a26b04f947.png"> [`.editorconfig`](https://editorconfig.org/) - Defining coding styles across various editors and IDEs.
