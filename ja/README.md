@@ -36,8 +36,8 @@
 - <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git のプロジェクト設定。
 - <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitignore`](https://git-scm.com/docs/gitignore) - Git に追跡されたくないファイルを指定します。
   > Git はソースコードの変更を追跡するための分散型バージョン管理システムです。
-- <img width="16" alt="GitLab icon" src="https://user-images.githubusercontent.com/5457539/92081352-e1dbab00-edfd-11ea-81fd-f28cc8f896c0.png"> [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD pipelines configuration.
-  > GitLab is a Git-repository hosting service.
+- <img width="16" alt="GitLab icon" src="https://user-images.githubusercontent.com/5457539/92081352-e1dbab00-edfd-11ea-81fd-f28cc8f896c0.png"> [`.gitlab-ci.yml`](https://docs.gitlab.com/ee/ci/yaml/README.html) - GitLab CI/CD のパイプライン設定。
+  > GitLab は Git リポジトリのホスティングサービスです。
 - <img width="16" alt="RubyGems icon" src="https://user-images.githubusercontent.com/5457539/92232839-2e041980-eeea-11ea-86a9-16d9e08a4d26.png"> [`Gemfile`](https://bundler.io/man/gemfile.5.html) - A format for describing gem dependencies for Ruby programs.
   > RubyGems is a package manager for the Ruby programming language.
 - <img width="16" alt="Husky icon" src="https://user-images.githubusercontent.com/5457539/92233561-753eda00-eeeb-11ea-9a96-715ccddc5fcb.png"> [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
