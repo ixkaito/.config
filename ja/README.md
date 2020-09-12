@@ -31,8 +31,8 @@
 - <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - 特定のファイルやディレクトリを ESLint で lint しないようにします。
 - <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint の設定ファイル。
   > ESLint は、JavaScript のコードで問題のあるパターンを特定するための静的コード解析ツールです。
-- <img width="16" alt="Gatsby icon" src="https://user-images.githubusercontent.com/5457539/92080236-29613780-edfc-11ea-826e-e2e41db45dd7.png"> [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Site configuration options for a Gatsby site
-  > Gatsby is a static site generator based on React.
+- <img width="16" alt="Gatsby icon" src="https://user-images.githubusercontent.com/5457539/92080236-29613780-edfc-11ea-826e-e2e41db45dd7.png"> [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Gatsby サイトの設定オプション。
+  > Gatsby は React ベースの静的サイトジェネレーターです。
 - <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git settings for a project.
 - <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitignore`](https://git-scm.com/docs/gitignore) - To specify intentionally untracked files that Git should ignore.
   > Git is a distributed version control system for tracking changes in source code.
