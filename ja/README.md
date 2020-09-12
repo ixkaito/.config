@@ -40,8 +40,8 @@
   > GitLab は Git リポジトリのホスティングサービスです。
 - <img width="16" alt="RubyGems icon" src="https://user-images.githubusercontent.com/5457539/92232839-2e041980-eeea-11ea-86a9-16d9e08a4d26.png"> [`Gemfile`](https://bundler.io/man/gemfile.5.html) - Ruby プログラムの gem の依存関係を記述するためのフォーマットです。
   > RubyGems は Ruby プログラミング言語のパッケージマネージャーです。
-- <img width="16" alt="Husky icon" src="https://user-images.githubusercontent.com/5457539/92233561-753eda00-eeeb-11ea-9a96-715ccddc5fcb.png"> [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky configuration.
-  > Husky is a tool that makes Git hooks easy.
+- <img width="16" alt="Husky icon" src="https://user-images.githubusercontent.com/5457539/92233561-753eda00-eeeb-11ea-9a96-715ccddc5fcb.png"> [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky の設定。
+  > Husky は Git フックを簡単にするツールです。
 - <img width="16" alt="Jest icon" src="https://user-images.githubusercontent.com/5457539/92233917-19c11c00-eeec-11ea-8532-cb2c7ceb2cfb.png"> [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
   > Jest is a JavaScript testing framework.
 - <img width="16" alt="JavaScript icon" src="https://user-images.githubusercontent.com/5457539/92235474-aff64180-eeee-11ea-8db8-a4def0e3297c.png"> [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A file to specify the options for the features provided by the JavaScript language service.
