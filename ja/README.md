@@ -44,7 +44,7 @@
   > Husky は Git フックを簡単にするツールです。
 - <img width="16" alt="Jest icon" src="https://user-images.githubusercontent.com/5457539/92233917-19c11c00-eeec-11ea-8532-cb2c7ceb2cfb.png"> [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest の設定。
   > Jest は JavaScript のテストフレームワークです。
-- <img width="16" alt="JavaScript icon" src="https://user-images.githubusercontent.com/5457539/92235474-aff64180-eeee-11ea-8db8-a4def0e3297c.png"> [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A file to specify the options for the features provided by the JavaScript language service.
+- <img width="16" alt="JavaScript icon" src="https://user-images.githubusercontent.com/5457539/92235474-aff64180-eeee-11ea-8db8-a4def0e3297c.png"> [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - JavaScript が提供する機能のオプションを指定するためのファイルです。
 - <img width="16" alt="Lerna icon" src="https://user-images.githubusercontent.com/5457539/92300730-269b4980-ef98-11ea-8102-76d09ed75dde.png"> [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna configuration file.
   > gLerna is a tool for managing JavaScript projects with multiple packages.
 - [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged configuration.
