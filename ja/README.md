@@ -42,8 +42,8 @@
   > RubyGems は Ruby プログラミング言語のパッケージマネージャーです。
 - <img width="16" alt="Husky icon" src="https://user-images.githubusercontent.com/5457539/92233561-753eda00-eeeb-11ea-9a96-715ccddc5fcb.png"> [`.huskyrc`, `.huskyrc.json`, `.huskyrc.yaml`, `huskyrc.yml`, `.huskyrc.js`, `husky.config.js`](https://github.com/typicode/husky#husky) - Husky の設定。
   > Husky は Git フックを簡単にするツールです。
-- <img width="16" alt="Jest icon" src="https://user-images.githubusercontent.com/5457539/92233917-19c11c00-eeec-11ea-8532-cb2c7ceb2cfb.png"> [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest configuration.
-  > Jest is a JavaScript testing framework.
+- <img width="16" alt="Jest icon" src="https://user-images.githubusercontent.com/5457539/92233917-19c11c00-eeec-11ea-8532-cb2c7ceb2cfb.png"> [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest の設定。
+  > Jest は JavaScript のテストフレームワークです。
 - <img width="16" alt="JavaScript icon" src="https://user-images.githubusercontent.com/5457539/92235474-aff64180-eeee-11ea-8db8-a4def0e3297c.png"> [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - A file to specify the options for the features provided by the JavaScript language service.
 - <img width="16" alt="Lerna icon" src="https://user-images.githubusercontent.com/5457539/92300730-269b4980-ef98-11ea-8102-76d09ed75dde.png"> [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna configuration file.
   > gLerna is a tool for managing JavaScript projects with multiple packages.
