@@ -49,8 +49,8 @@
   > Lerna は単一の JavaScript プロジェクトで複数のパッケージを管理するためのツールです。
 - [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged の設定。
   > lint-staged は Git のステージングエリアに追加されたファイルに対して静的解析を実行します。
-- <img width="16" alt="markdownlint icon" src="https://user-images.githubusercontent.com/5457539/92300816-f011fe80-ef98-11ea-99ab-86c1df323a82.png"> [`.markdownlint.json`](https://github.com/DavidAnson/markdownlint#config) - markdownlint config file.
-  > markdownlint is a Node.js style checker and lint tool for Markdown/CommonMark files.
+- <img width="16" alt="markdownlint icon" src="https://user-images.githubusercontent.com/5457539/92300816-f011fe80-ef98-11ea-99ab-86c1df323a82.png"> [`.markdownlint.json`](https://github.com/DavidAnson/markdownlint#config) - markdownlint 設定ファイル。
+  > markdownlint は Markdown/CommonMark ファイル用のスタイルチェッカーと解析ツールです。
 - <img width="16" alt="Netlify icon" src="https://user-images.githubusercontent.com/5457539/92300845-349d9a00-ef99-11ea-8ff8-ef9d979c74ba.png"> [`netlify.toml`](https://docs.netlify.com/configure-builds/file-based-configuration/) - Netlify file-based configuration
   > Netlify is a platform that offers hosting and serverless backend services for web applications and static websites. 
 - <img width="16" alt="Next.js icon" src="https://user-images.githubusercontent.com/5457539/92300974-6f540200-ef9a-11ea-8240-f4b535146914.png"> [`next.config.js`](https://nextjs.org/docs/api-reference/next.config.js/introduction) - Next.js configuration file.
