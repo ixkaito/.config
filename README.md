@@ -51,8 +51,8 @@
   > lint-staged runs linters against staged git files.
 - <img width="16" alt="markdownlint icon" src="https://user-images.githubusercontent.com/5457539/92300816-f011fe80-ef98-11ea-99ab-86c1df323a82.png"> [`.markdownlint.json`](https://github.com/DavidAnson/markdownlint#config) - markdownlint config file.
   > markdownlint is a Node.js style checker and lint tool for Markdown/CommonMark files.
-- <img width="16" alt="Netlify icon" src="https://user-images.githubusercontent.com/5457539/92300845-349d9a00-ef99-11ea-8ff8-ef9d979c74ba.png"> [`netlify.toml`](https://docs.netlify.com/configure-builds/file-based-configuration/) - Netlify file-based configuration
-  > Netlify is a platform that offers hosting and serverless backend services for web applications and static websites. 
+- <img width="16" alt="Netlify icon" src="https://user-images.githubusercontent.com/5457539/92300845-349d9a00-ef99-11ea-8ff8-ef9d979c74ba.png"> [`netlify.toml`](https://docs.netlify.com/configure-builds/file-based-configuration/) - Netlify file-based configuration.
+  > Netlify is a platform that offers hosting and serverless backend services for web applications and static websites.
 - <img width="16" alt="Next.js icon" src="https://user-images.githubusercontent.com/5457539/92300974-6f540200-ef9a-11ea-8240-f4b535146914.png"> [`next.config.js`](https://nextjs.org/docs/api-reference/next.config.js/introduction) - Next.js configuration file.
   > Next.js is a React framework which gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
 - <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - Node version configuration for nodenv.
