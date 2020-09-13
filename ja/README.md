@@ -28,9 +28,9 @@
   > Docker とは、アプリケーションとそのすべての依存ソフトウェアをコンテナにパッケージ化し、任意のインフラ上で実行できるようにするツールです。
 - <img width="16" alt="EditorConfig icon" src="https://user-images.githubusercontent.com/5457539/91941970-1d5e7280-ed35-11ea-931d-e4a26b04f947.png"> [`.editorconfig`](https://editorconfig.org/) - さまざまなエディタや IDE のコーディングスタイルを一元的に定義します。
   > EditorConfig は、同じプロジェクトで作業する複数の開発者のために、さまざまなエディタや IDE での一貫したコーディングスタイルを維持するのに役立ちます。
-- <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - 特定のファイルやディレクトリを ESLint で lint しないようにします。
+- <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - 特定のファイルやディレクトリを ESLint で解析しないようにします。
 - <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint の設定ファイル。
-  > ESLint は、JavaScript のコードで問題のあるパターンを特定するための静的コード解析ツールです。
+  > ESLint は JavaScript のコードで問題のあるパターンを特定するための静的コード解析ツールです。
 - <img width="16" alt="Gatsby icon" src="https://user-images.githubusercontent.com/5457539/92080236-29613780-edfc-11ea-826e-e2e41db45dd7.png"> [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Gatsby サイトの設定オプション。
   > Gatsby は React ベースの静的サイトジェネレーターです。
 - <img width="16" alt="Git icon" src="https://user-images.githubusercontent.com/5457539/92080859-26b31200-edfd-11ea-8566-77b6e88fe45e.png"> [`.gitattributes`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes) - Git のプロジェクト設定。
@@ -47,8 +47,8 @@
 - <img width="16" alt="JavaScript icon" src="https://user-images.githubusercontent.com/5457539/92235474-aff64180-eeee-11ea-8db8-a4def0e3297c.png"> [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - JavaScript が提供する機能のオプションを指定するためのファイルです。
 - <img width="16" alt="Lerna icon" src="https://user-images.githubusercontent.com/5457539/92300730-269b4980-ef98-11ea-8102-76d09ed75dde.png"> [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna の設定ファイル。
   > Lerna は単一の JavaScript プロジェクトで複数のパッケージを管理するためのツールです。
-- [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged configuration.
-  > lint-staged runs linters against staged git files.
+- [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged の設定。
+  > lint-staged は Git のステージングエリアに追加されたファイルに対して静的解析を実行します。
 - <img width="16" alt="markdownlint icon" src="https://user-images.githubusercontent.com/5457539/92300816-f011fe80-ef98-11ea-99ab-86c1df323a82.png"> [`.markdownlint.json`](https://github.com/DavidAnson/markdownlint#config) - markdownlint config file.
   > markdownlint is a Node.js style checker and lint tool for Markdown/CommonMark files.
 - <img width="16" alt="Netlify icon" src="https://user-images.githubusercontent.com/5457539/92300845-349d9a00-ef99-11ea-8ff8-ef9d979c74ba.png"> [`netlify.toml`](https://docs.netlify.com/configure-builds/file-based-configuration/) - Netlify file-based configuration
