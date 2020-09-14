@@ -73,8 +73,8 @@
   > pub は Dart プログラミング言語のパッケージマネージャーです。
 - <img width="16" alt="Renovate icon" src="https://user-images.githubusercontent.com/5457539/92366275-e8389280-f12f-11ea-8e7b-fc09f562d269.png"> [`renovate.json`](https://docs.renovatebot.com/configuration-options/) - Renovate 設定ファイル。
   > Renovate は、自動化されたプリクエストを利用して、マルチプラットフォーム・マルチ言語に対応したソースコードの依存関係を最新の状態に保ちます。
-- <img width="16" alt="Ruby icon" src="https://user-images.githubusercontent.com/5457539/92367305-339f7080-f131-11ea-8fe6-c2e4030aa697.png"> `.ruby-version` - Ruby version configuration for [rbenv](https://github.com/rbenv/rbenv#choosing-the-ruby-version) or [RVM](https://github.com/rvm/rvm#switching-between-ruby-versions).
-  > rbenv and RVM are Ruby environment (version) managers.
+- <img width="16" alt="Ruby icon" src="https://user-images.githubusercontent.com/5457539/92367305-339f7080-f131-11ea-8fe6-c2e4030aa697.png"> `.ruby-version` - [rbenv](https://github.com/rbenv/rbenv#choosing-the-ruby-version) もしくは [RVM](https://github.com/rvm/rvm#switching-between-ruby-versions) 用の Ruby のバージョン設定。
+  > rbenv と RVM は Ruby の環境 (バージョン) マネージャーです。
 - <img width="16" alt="stylelint icon" src="https://user-images.githubusercontent.com/5457539/92367952-0dc69b80-f132-11ea-9c89-e34c86bc6ec6.png"> [`.stylelintrc`, `.stylelintrc.js`, `.stylelintrc.json`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `stylelintrc.config.js`](https://stylelint.io/user-guide/configure) - stylelint configuration.
   > stylelint is a mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - <img width="16" alt="Tailwind CSS icon" src="https://user-images.githubusercontent.com/5457539/92437557-2c846b00-f1e2-11ea-9954-4e3ba7c5ec26.png"> [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS configuration.
