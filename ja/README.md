@@ -66,9 +66,9 @@
 - <img width="16" alt="npm icon" src="https://user-images.githubusercontent.com/5457539/92317593-a4fdf700-f03d-11ea-82a4-c71d76e2d476.png"> [`package.json`](https://docs.npmjs.com/files/package.json) - A file that lists package dependencies and includes other metadata for npm package.
 - <img width="16" alt="PostCSS icon" src="https://user-images.githubusercontent.com/5457539/92317876-8e0cd400-f040-11ea-80c4-212d2fedf364.png"> [`postcss.config.js`](https://github.com/postcss/postcss#postcss-) - PostCSS の設定。
   > PostCSS は JavaScript で CSS を変換するためのツールです。
-- <img width="16" alt="Prettier icon" src="https://user-images.githubusercontent.com/5457539/92318115-9239f100-f042-11ea-873b-fa47909fed0b.png"> [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - To exclude files from formatting by Prettier.
-- <img width="16" alt="Prettier icon" src="https://user-images.githubusercontent.com/5457539/92318115-9239f100-f042-11ea-873b-fa47909fed0b.png"> [`.prettierrc`, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier configuration file.
-  > Prettier is an opinionated code formatter.
+- <img width="16" alt="Prettier icon" src="https://user-images.githubusercontent.com/5457539/92318115-9239f100-f042-11ea-873b-fa47909fed0b.png"> [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - Prettier による整形からファイルを除外します。
+- <img width="16" alt="Prettier icon" src="https://user-images.githubusercontent.com/5457539/92318115-9239f100-f042-11ea-873b-fa47909fed0b.png"> [`.prettierrc`, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier 設定ファイル。
+  > Prettier は、オプションが最小限で、ほぼ固有の設定のみを提供するコードフォーマッターです。
 - <img width="16" alt="Dart icon" src="https://user-images.githubusercontent.com/5457539/92365256-becb3700-f12e-11ea-85c9-95390a7000eb.png"> [`pubspec.yaml`](https://dart.dev/tools/pub/pubspec) - A file that lists package dependencies and includes other metadata, such as a version number for pub packages.
   > pub is a package manager for the Dart programming language.
 - <img width="16" alt="Renovate icon" src="https://user-images.githubusercontent.com/5457539/92366275-e8389280-f12f-11ea-8e7b-fc09f562d269.png"> [`renovate.json`](https://docs.renovatebot.com/configuration-options/) - Renovate configuration file.
