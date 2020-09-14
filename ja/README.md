@@ -79,8 +79,8 @@
   > stylelint は強力でモダンなコード解析ツールです。エラーの回避やスタイル規約の遵守に役立ちます。
 - <img width="16" alt="Tailwind CSS icon" src="https://user-images.githubusercontent.com/5457539/92437557-2c846b00-f1e2-11ea-9954-4e3ba7c5ec26.png"> [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS の設定。
   > Tailwind CSS はカスタムデザインを素早く構築するためのユーティリティファーストの CSS フレームワークです。
-- <img width="16" alt="Travis CI icon" src="https://user-images.githubusercontent.com/5457539/92437952-e4197d00-f1e2-11ea-82fa-b0e5ca2e16ae.png"> [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings
-  > Travis CI is a hosted continuous integration and deployment system.
+- <img width="16" alt="Travis CI icon" src="https://user-images.githubusercontent.com/5457539/92437952-e4197d00-f1e2-11ea-82fa-b0e5ca2e16ae.png"> [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI の設定。
+  > Travis CI は継続的インテグレーションおよびデプロイメントのシステムです。
 - <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
   > TypeScript is a strict syntactical superset of JavaScript and adds optional static typing to the language.
 - <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.

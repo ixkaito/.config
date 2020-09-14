@@ -79,7 +79,7 @@
   > stylelint is a mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - <img width="16" alt="Tailwind CSS icon" src="https://user-images.githubusercontent.com/5457539/92437557-2c846b00-f1e2-11ea-9954-4e3ba7c5ec26.png"> [`tailwind.config.js`](https://tailwindcss.com/docs/configuration/) - Tailwind CSS configuration.
   > Tailwind CSS is a utility-first CSS framework for rapidly building custom designs.
-- <img width="16" alt="Travis CI icon" src="https://user-images.githubusercontent.com/5457539/92437952-e4197d00-f1e2-11ea-82fa-b0e5ca2e16ae.png"> [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings
+- <img width="16" alt="Travis CI icon" src="https://user-images.githubusercontent.com/5457539/92437952-e4197d00-f1e2-11ea-82fa-b0e5ca2e16ae.png"> [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI build configuration and settings.
   > Travis CI is a hosted continuous integration and deployment system.
 - <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
   > TypeScript is a strict syntactical superset of JavaScript and adds optional static typing to the language.
