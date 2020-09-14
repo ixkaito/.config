@@ -85,8 +85,8 @@
   > TypeScript は JavaScript に対して省略可能な静的型付けを加えた厳密な構文のスーパーセットです。
 - <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint の設定。
   > :warning: TSLint は2019年現在、非推奨となっています。TSLint は TypeScript コードの可読性、保守性、機能性のエラーをチェックする拡張可能な静的解析ツールです。
-- <img width="16" alt="Vue js icon" src="https://user-images.githubusercontent.com/5457539/92555316-569d6200-f2a2-11ea-99a5-b6ac0d2551a8.png"> [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
-  > Vue.js is a model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
+- <img width="16" alt="Vue js icon" src="https://user-images.githubusercontent.com/5457539/92555316-569d6200-f2a2-11ea-99a5-b6ac0d2551a8.png"> [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI 設定ファイル。
+  > Vue.js は、ユーザーインターフェイスやシングルページのアプリケーションを構築するための model-view-viewmodel (MVVM) JavaScript フレームワークです。
 - <img width="16" alt="Watchman icon" src="https://user-images.githubusercontent.com/5457539/92555614-ff4bc180-f2a2-11ea-944a-83f385f7ed08.png"> [`.watchmanconfig`](https://facebook.github.io/watchman/docs/config.html) - Watchman configuration file.
   > Watchman exists to watch files and record when they change. It can also trigger actions (such as rebuilding assets) when matching files change.
 - <img width="16" alt="Webpack icon" src="https://user-images.githubusercontent.com/5457539/92555732-489c1100-f2a3-11ea-84fd-d03d2ef2d33a.png"> [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
