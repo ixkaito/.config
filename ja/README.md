@@ -29,7 +29,7 @@
 - <img width="16" alt="EditorConfig icon" src="https://user-images.githubusercontent.com/5457539/91941970-1d5e7280-ed35-11ea-931d-e4a26b04f947.png"> [`.editorconfig`](https://editorconfig.org/) - さまざまなエディタや IDE のコーディングスタイルを一元的に定義します。
   > EditorConfig は、同じプロジェクトで作業する複数の開発者のために、さまざまなエディタや IDE での一貫したコーディングスタイルを維持するのに役立ちます。
 - <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintignore`](https://eslint.org/docs/user-guide/configuring#eslintignore) - 特定のファイルやディレクトリを ESLint で解析しないようにします。
-- <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint の設定ファイル。
+- <img width="16" alt="eslint icon" src="https://user-images.githubusercontent.com/5457539/91942337-b8574c80-ed35-11ea-8034-933299b0985b.png"> [`.eslintrc`, `.eslintrc.js`, `.eslintrc.json`, `.eslintrc.yml`, `.eslintrc.yaml`](https://eslint.org/docs/user-guide/configuring) - ESLint 設定ファイル。
   > ESLint は JavaScript のコードで問題のあるパターンを特定するための静的コード解析ツールです。
 - <img width="16" alt="Gatsby icon" src="https://user-images.githubusercontent.com/5457539/92080236-29613780-edfc-11ea-826e-e2e41db45dd7.png"> [`gatsby-config.js`](https://www.gatsbyjs.org/docs/gatsby-config/) - Gatsby サイトの設定オプション。
   > Gatsby は React ベースの静的サイトジェネレーターです。
@@ -45,7 +45,7 @@
 - <img width="16" alt="Jest icon" src="https://user-images.githubusercontent.com/5457539/92233917-19c11c00-eeec-11ea-8532-cb2c7ceb2cfb.png"> [`jest.config.js`](https://jestjs.io/docs/en/configuration) - Jest の設定。
   > Jest は JavaScript のテストフレームワークです。
 - <img width="16" alt="JavaScript icon" src="https://user-images.githubusercontent.com/5457539/92235474-aff64180-eeee-11ea-8db8-a4def0e3297c.png"> [`jsconfig.json`](https://code.visualstudio.com/docs/languages/jsconfig) - JavaScript が提供する機能のオプションを指定するためのファイルです。
-- <img width="16" alt="Lerna icon" src="https://user-images.githubusercontent.com/5457539/92300730-269b4980-ef98-11ea-8102-76d09ed75dde.png"> [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna の設定ファイル。
+- <img width="16" alt="Lerna icon" src="https://user-images.githubusercontent.com/5457539/92300730-269b4980-ef98-11ea-8102-76d09ed75dde.png"> [`lerna.json`](https://github.com/lerna/lerna#lernajson) - Lerna 設定ファイル。
   > Lerna は単一の JavaScript プロジェクトで複数のパッケージを管理するためのツールです。
 - [`.lintstagedrc`, `lint-staged.config.js`](https://github.com/okonet/lint-staged#configuration) - lint-staged の設定。
   > lint-staged は Git のステージングエリアに追加されたファイルに対して静的解析を実行します。
