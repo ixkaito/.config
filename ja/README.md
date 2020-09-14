@@ -83,8 +83,8 @@
   > Travis CI は継続的インテグレーションおよびデプロイメントのシステムです。
 - <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript の設定。
   > TypeScript は JavaScript に対して省略可能な静的型付けを加えた厳密な構文のスーパーセットです。
-- <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.
-  > :warning: TSLint has been deprecated as of 2019. TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
+- <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint の設定。
+  > :warning: TSLint は2019年現在、非推奨となっています。TSLint は TypeScript コードの可読性、保守性、機能性のエラーをチェックする拡張可能な静的解析ツールです。
 - <img width="16" alt="Vue js icon" src="https://user-images.githubusercontent.com/5457539/92555316-569d6200-f2a2-11ea-99a5-b6ac0d2551a8.png"> [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
   > Vue.js is a model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
 - <img width="16" alt="Watchman icon" src="https://user-images.githubusercontent.com/5457539/92555614-ff4bc180-f2a2-11ea-944a-83f385f7ed08.png"> [`.watchmanconfig`](https://facebook.github.io/watchman/docs/config.html) - Watchman configuration file.
