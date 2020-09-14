@@ -89,8 +89,8 @@
   > Vue.js は、ユーザーインターフェイスやシングルページのアプリケーションを構築するための model-view-viewmodel (MVVM) JavaScript フレームワークです。
 - <img width="16" alt="Watchman icon" src="https://user-images.githubusercontent.com/5457539/92555614-ff4bc180-f2a2-11ea-944a-83f385f7ed08.png"> [`.watchmanconfig`](https://facebook.github.io/watchman/docs/config.html) - Watchman 設定ファイル。
   > Watchman はファイルを監視し変更を記録します。また、特定のファイルが変更されたとき、アクション (アセットの再構築など) を起動することもできます。
-- <img width="16" alt="Webpack icon" src="https://user-images.githubusercontent.com/5457539/92555732-489c1100-f2a3-11ea-84fd-d03d2ef2d33a.png"> [`webpack.config.js`](https://webpack.js.org/configuration/) - Webpack configuration file.
-  > webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
+- <img width="16" alt="Webpack icon" src="https://user-images.githubusercontent.com/5457539/92555732-489c1100-f2a3-11ea-84fd-d03d2ef2d33a.png"> [`webpack.config.js`](https://webpack.js.org/configuration/) - webpack 設定ファイル。
+  > webpack はモジュールバンドルツールです。その主な目的は、ブラウザで使用するための JavaScript ファイルをバンドルすることですが、あらゆるリソースやアセットを変換したり、バンドルしたり、パッケージングしたりすることもできます。
 - <img width="16" alt="WP-CLI icon" src="https://user-images.githubusercontent.com/5457539/92555947-bba58780-f2a3-11ea-8a63-6118c564aed5.png"> [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI config files.
   > WP-CLI is the official command line tool for interacting with and managing your WordPress sites.
 - <img width="16" alt="WordPress icon" src="https://user-images.githubusercontent.com/5457539/92556692-8b5ee880-f2a5-11ea-8945-b250c97f2563.png"> [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env configuration.
