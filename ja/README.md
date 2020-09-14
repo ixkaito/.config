@@ -71,8 +71,8 @@
   > Prettier は、オプションが最小限で、ほぼ固有の設定のみを提供するコードフォーマッターです。
 - <img width="16" alt="Dart icon" src="https://user-images.githubusercontent.com/5457539/92365256-becb3700-f12e-11ea-85c9-95390a7000eb.png"> [`pubspec.yaml`](https://dart.dev/tools/pub/pubspec) - pub パッケージの依存関係リストとバージョン番号などのメタ情報を含むファイル。
   > pub は Dart プログラミング言語のパッケージマネージャーです。
-- <img width="16" alt="Renovate icon" src="https://user-images.githubusercontent.com/5457539/92366275-e8389280-f12f-11ea-8e7b-fc09f562d269.png"> [`renovate.json`](https://docs.renovatebot.com/configuration-options/) - Renovate configuration file.
-  > Renovate keeps source code dependencies up-to-date with multi-platform and multi-language using automated Pull Requests.
+- <img width="16" alt="Renovate icon" src="https://user-images.githubusercontent.com/5457539/92366275-e8389280-f12f-11ea-8e7b-fc09f562d269.png"> [`renovate.json`](https://docs.renovatebot.com/configuration-options/) - Renovate 設定ファイル。
+  > Renovate は、自動化されたプリクエストを利用して、マルチプラットフォーム・マルチ言語に対応したソースコードの依存関係を最新の状態に保ちます。
 - <img width="16" alt="Ruby icon" src="https://user-images.githubusercontent.com/5457539/92367305-339f7080-f131-11ea-8fe6-c2e4030aa697.png"> `.ruby-version` - Ruby version configuration for [rbenv](https://github.com/rbenv/rbenv#choosing-the-ruby-version) or [RVM](https://github.com/rvm/rvm#switching-between-ruby-versions).
   > rbenv and RVM are Ruby environment (version) managers.
 - <img width="16" alt="stylelint icon" src="https://user-images.githubusercontent.com/5457539/92367952-0dc69b80-f132-11ea-9c89-e34c86bc6ec6.png"> [`.stylelintrc`, `.stylelintrc.js`, `.stylelintrc.json`, `.stylelintrc.yml`, `.stylelintrc.yaml`, `stylelintrc.config.js`](https://stylelint.io/user-guide/configure) - stylelint configuration.
