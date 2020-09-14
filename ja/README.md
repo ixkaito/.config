@@ -57,8 +57,8 @@
   > Next.js は、本番環境に必要な機能をすべて備えた最高の開発者体験を提供する React のフレームワークです：ハイブリッドスタティック＆サーバーレンダリング、TypeScript 対応、スマートバンドル、ルートプリフェッチなど。
 - <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - nodenv 用の Node のバージョン設定。
   > nodenv は Node.js のバージョンマネージャーです。
-- <img width="16" alt="npm icon" src="https://user-images.githubusercontent.com/5457539/92317593-a4fdf700-f03d-11ea-82a4-c71d76e2d476.png"> [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
-  > npm (originally short for Node Package Manager) is a package manager for the JavaScript programming language.
+- <img width="16" alt="npm icon" src="https://user-images.githubusercontent.com/5457539/92317593-a4fdf700-f03d-11ea-82a4-c71d76e2d476.png"> [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm 設定ファイル。
+  > npm (元々は Node Package Manager の略) は JavaScript プログラミング言語のパッケージマネージャーです。
 - <img width="16" alt="Nuxt js icon" src="https://user-images.githubusercontent.com/5457539/92317751-40439c00-f03f-11ea-8d66-4189e01302fc.png"> [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
   > Nuxt.js is a progressive framework based on Vue.js to create modern web applications.
 - <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.nvmrc`](https://github.com/nvm-sh/nvm#nvmrc) - nvm (Node Version Manager) configuration.
