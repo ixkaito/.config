@@ -81,8 +81,8 @@
   > Tailwind CSS はカスタムデザインを素早く構築するためのユーティリティファーストの CSS フレームワークです。
 - <img width="16" alt="Travis CI icon" src="https://user-images.githubusercontent.com/5457539/92437952-e4197d00-f1e2-11ea-82fa-b0e5ca2e16ae.png"> [`.travis.yml`](https://docs.travis-ci.com/user/customizing-the-build) - Travis CI の設定。
   > Travis CI は継続的インテグレーションおよびデプロイメントのシステムです。
-- <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript configuration.
-  > TypeScript is a strict syntactical superset of JavaScript and adds optional static typing to the language.
+- <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) - TypeScript の設定。
+  > TypeScript は JavaScript に対して省略可能な静的型付けを加えた厳密な構文のスーパーセットです。
 - <img width="16" alt="TypeScript icon" src="https://user-images.githubusercontent.com/5457539/92438093-29d64580-f1e3-11ea-9564-aa2272881817.png"> [`tslint.json`](https://palantir.github.io/tslint/usage/configuration/) - TSLint configuration.
   > :warning: TSLint has been deprecated as of 2019. TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
 - <img width="16" alt="Vue js icon" src="https://user-images.githubusercontent.com/5457539/92555316-569d6200-f2a2-11ea-99a5-b6ac0d2551a8.png"> [`vue.config.js`](https://cli.vuejs.org/config/#vue-config-js) - Vue CLI config file.
