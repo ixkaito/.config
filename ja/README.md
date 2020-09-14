@@ -59,8 +59,8 @@
   > nodenv は Node.js のバージョンマネージャーです。
 - <img width="16" alt="npm icon" src="https://user-images.githubusercontent.com/5457539/92317593-a4fdf700-f03d-11ea-82a4-c71d76e2d476.png"> [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm 設定ファイル。
   > npm (元々は Node Package Manager の略) は JavaScript プログラミング言語のパッケージマネージャーです。
-- <img width="16" alt="Nuxt js icon" src="https://user-images.githubusercontent.com/5457539/92317751-40439c00-f03f-11ea-8d66-4189e01302fc.png"> [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
-  > Nuxt.js is a progressive framework based on Vue.js to create modern web applications.
+- <img width="16" alt="Nuxt js icon" src="https://user-images.githubusercontent.com/5457539/92317751-40439c00-f03f-11ea-8d66-4189e01302fc.png"> [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js の設定。
+  > Nuxt.js は、モダンなウェブアプリケーションを作成するための Vue.js ベースの革新的なフレームワークです。
 - <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.nvmrc`](https://github.com/nvm-sh/nvm#nvmrc) - nvm (Node Version Manager) configuration.
   > nvm is a version manager for node.js, designed to be installed per-user, and invoked per-shell.
 - <img width="16" alt="npm icon" src="https://user-images.githubusercontent.com/5457539/92317593-a4fdf700-f03d-11ea-82a4-c71d76e2d476.png"> [`package.json`](https://docs.npmjs.com/files/package.json) - A file that lists package dependencies and includes other metadata for npm package.
