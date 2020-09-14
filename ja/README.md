@@ -95,5 +95,5 @@
   > WP-CLI は WordPress サイトを操作・管理するための公式コマンドラインツールです。
 - <img width="16" alt="WordPress icon" src="https://user-images.githubusercontent.com/5457539/92556692-8b5ee880-f2a5-11ea-8945-b250c97f2563.png"> [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env の設定。
   > wp-env を使えば、プラグインやテーマの作成やテストのためのローカル WordPress 環境を簡単に用意することができます。
-- <img width="16" alt="Yarn icon" src="https://user-images.githubusercontent.com/5457539/92557166-8ea6a400-f2a6-11ea-98b8-ac1a910b0a04.png"> [`.yarnrc`](https://classic.yarnpkg.com/en/docs/yarnrc/) - Allows you to configure additional Yarn features.
-  > Yarn is an alternative to npm for installing modular JavaScript.
+- <img width="16" alt="Yarn icon" src="https://user-images.githubusercontent.com/5457539/92557166-8ea6a400-f2a6-11ea-98b8-ac1a910b0a04.png"> [`.yarnrc`](https://classic.yarnpkg.com/en/docs/yarnrc/) - Yarn の追加機能を設定できます。
+  > Yarn は JavaScript モジュールをインストールするための npm の代替ツールです。
