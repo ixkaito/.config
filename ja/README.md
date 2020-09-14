@@ -53,8 +53,8 @@
   > markdownlint は Markdown/CommonMark ファイル用のスタイルチェッカーと解析ツールです。
 - <img width="16" alt="Netlify icon" src="https://user-images.githubusercontent.com/5457539/92300845-349d9a00-ef99-11ea-8ff8-ef9d979c74ba.png"> [`netlify.toml`](https://docs.netlify.com/configure-builds/file-based-configuration/) - Netlify のファイルベース設定。
   > Netlify は ウェブアプリケーションや静的なウェブサイトのためのホスティングとサーバーレスバックエンドサービスを提供するプラットフォームです。
-- <img width="16" alt="Next.js icon" src="https://user-images.githubusercontent.com/5457539/92300974-6f540200-ef9a-11ea-8240-f4b535146914.png"> [`next.config.js`](https://nextjs.org/docs/api-reference/next.config.js/introduction) - Next.js configuration file.
-  > Next.js is a React framework which gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
+- <img width="16" alt="Next.js icon" src="https://user-images.githubusercontent.com/5457539/92300974-6f540200-ef9a-11ea-8240-f4b535146914.png"> [`next.config.js`](https://nextjs.org/docs/api-reference/next.config.js/introduction) - Next.js 設定ファイル。
+  > Next.js は、本番環境に必要な機能をすべて備えた最高の開発者体験を提供する React のフレームワークです：ハイブリッドスタティック＆サーバーレンダリング、TypeScript 対応、スマートバンドル、ルートプリフェッチなど。
 - <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - Node version configuration for nodenv.
   > nodenv is a version manager for Node.js.
 - <img width="16" alt="npm icon" src="https://user-images.githubusercontent.com/5457539/92317593-a4fdf700-f03d-11ea-82a4-c71d76e2d476.png"> [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
