@@ -69,8 +69,8 @@
 - <img width="16" alt="Prettier icon" src="https://user-images.githubusercontent.com/5457539/92318115-9239f100-f042-11ea-873b-fa47909fed0b.png"> [`.prettierignore`](https://prettier.io/docs/en/ignore.html) - Prettier による整形からファイルを除外します。
 - <img width="16" alt="Prettier icon" src="https://user-images.githubusercontent.com/5457539/92318115-9239f100-f042-11ea-873b-fa47909fed0b.png"> [`.prettierrc`, `.prettierrc.js`, `.prettierrc.json`, `.prettierrc.yml`, `.prettierrc.yaml`, `.prettierrc.toml`, `prettier.config.js`](https://prettier.io/docs/en/configuration.html) - Prettier 設定ファイル。
   > Prettier は、オプションが最小限で、ほぼ固有の設定のみを提供するコードフォーマッターです。
-- <img width="16" alt="Dart icon" src="https://user-images.githubusercontent.com/5457539/92365256-becb3700-f12e-11ea-85c9-95390a7000eb.png"> [`pubspec.yaml`](https://dart.dev/tools/pub/pubspec) - A file that lists package dependencies and includes other metadata, such as a version number for pub packages.
-  > pub is a package manager for the Dart programming language.
+- <img width="16" alt="Dart icon" src="https://user-images.githubusercontent.com/5457539/92365256-becb3700-f12e-11ea-85c9-95390a7000eb.png"> [`pubspec.yaml`](https://dart.dev/tools/pub/pubspec) - pub パッケージの依存関係リストとバージョン番号などのメタ情報を含むファイル。
+  > pub は Dart プログラミング言語のパッケージマネージャーです。
 - <img width="16" alt="Renovate icon" src="https://user-images.githubusercontent.com/5457539/92366275-e8389280-f12f-11ea-8e7b-fc09f562d269.png"> [`renovate.json`](https://docs.renovatebot.com/configuration-options/) - Renovate configuration file.
   > Renovate keeps source code dependencies up-to-date with multi-platform and multi-language using automated Pull Requests.
 - <img width="16" alt="Ruby icon" src="https://user-images.githubusercontent.com/5457539/92367305-339f7080-f131-11ea-8fe6-c2e4030aa697.png"> `.ruby-version` - Ruby version configuration for [rbenv](https://github.com/rbenv/rbenv#choosing-the-ruby-version) or [RVM](https://github.com/rvm/rvm#switching-between-ruby-versions).
