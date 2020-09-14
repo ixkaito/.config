@@ -93,7 +93,7 @@
   > webpack はモジュールバンドルツールです。その主な目的は、ブラウザで使用するための JavaScript ファイルをバンドルすることですが、あらゆるリソースやアセットを変換したり、バンドルしたり、パッケージングしたりすることもできます。
 - <img width="16" alt="WP-CLI icon" src="https://user-images.githubusercontent.com/5457539/92555947-bba58780-f2a3-11ea-8a63-6118c564aed5.png"> [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI 設定ファイル。
   > WP-CLI は WordPress サイトを操作・管理するための公式コマンドラインツールです。
-- <img width="16" alt="WordPress icon" src="https://user-images.githubusercontent.com/5457539/92556692-8b5ee880-f2a5-11ea-8945-b250c97f2563.png"> [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env configuration.
-  > wp-env lets you easily set up a local WordPress environment for building and testing plugins and themes.
+- <img width="16" alt="WordPress icon" src="https://user-images.githubusercontent.com/5457539/92556692-8b5ee880-f2a5-11ea-8945-b250c97f2563.png"> [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env の設定。
+  > wp-env を使えば、プラグインやテーマの作成やテストのためのローカル WordPress 環境を簡単に用意することができます。
 - <img width="16" alt="Yarn icon" src="https://user-images.githubusercontent.com/5457539/92557166-8ea6a400-f2a6-11ea-98b8-ac1a910b0a04.png"> [`.yarnrc`](https://classic.yarnpkg.com/en/docs/yarnrc/) - Allows you to configure additional Yarn features.
   > Yarn is an alternative to npm for installing modular JavaScript.
