@@ -55,8 +55,8 @@
   > Netlify は ウェブアプリケーションや静的なウェブサイトのためのホスティングとサーバーレスバックエンドサービスを提供するプラットフォームです。
 - <img width="16" alt="Next.js icon" src="https://user-images.githubusercontent.com/5457539/92300974-6f540200-ef9a-11ea-8240-f4b535146914.png"> [`next.config.js`](https://nextjs.org/docs/api-reference/next.config.js/introduction) - Next.js 設定ファイル。
   > Next.js は、本番環境に必要な機能をすべて備えた最高の開発者体験を提供する React のフレームワークです：ハイブリッドスタティック＆サーバーレンダリング、TypeScript 対応、スマートバンドル、ルートプリフェッチなど。
-- <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - Node version configuration for nodenv.
-  > nodenv is a version manager for Node.js.
+- <img width="16" alt="Node js icon" src="https://user-images.githubusercontent.com/5457539/92301026-dc679780-ef9a-11ea-999b-09da0665afd9.png"> [`.node-version`](https://github.com/nodenv/nodenv#choosing-the-node-version) - nodenv 用の Node のバージョン設定。
+  > nodenv は Node.js のバージョンマネージャーです。
 - <img width="16" alt="npm icon" src="https://user-images.githubusercontent.com/5457539/92317593-a4fdf700-f03d-11ea-82a4-c71d76e2d476.png"> [`.npmrc`](https://docs.npmjs.com/configuring-npm/npmrc.html) - npm config file.
   > npm (originally short for Node Package Manager) is a package manager for the JavaScript programming language.
 - <img width="16" alt="Nuxt js icon" src="https://user-images.githubusercontent.com/5457539/92317751-40439c00-f03f-11ea-8d66-4189e01302fc.png"> [`nuxt.config.js`](https://nuxtjs.org/guide/configuration/) - Nuxt.js configuration.
