@@ -91,8 +91,8 @@
   > Watchman はファイルを監視し変更を記録します。また、特定のファイルが変更されたとき、アクション (アセットの再構築など) を起動することもできます。
 - <img width="16" alt="Webpack icon" src="https://user-images.githubusercontent.com/5457539/92555732-489c1100-f2a3-11ea-84fd-d03d2ef2d33a.png"> [`webpack.config.js`](https://webpack.js.org/configuration/) - webpack 設定ファイル。
   > webpack はモジュールバンドルツールです。その主な目的は、ブラウザで使用するための JavaScript ファイルをバンドルすることですが、あらゆるリソースやアセットを変換したり、バンドルしたり、パッケージングしたりすることもできます。
-- <img width="16" alt="WP-CLI icon" src="https://user-images.githubusercontent.com/5457539/92555947-bba58780-f2a3-11ea-8a63-6118c564aed5.png"> [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI config files.
-  > WP-CLI is the official command line tool for interacting with and managing your WordPress sites.
+- <img width="16" alt="WP-CLI icon" src="https://user-images.githubusercontent.com/5457539/92555947-bba58780-f2a3-11ea-8a63-6118c564aed5.png"> [`wp-cli.local.yml`, `wp-cli.yml`](https://make.wordpress.org/cli/handbook/references/config/#config-files) - WP-CLI 設定ファイル。
+  > WP-CLI は WordPress サイトを操作・管理するための公式コマンドラインツールです。
 - <img width="16" alt="WordPress icon" src="https://user-images.githubusercontent.com/5457539/92556692-8b5ee880-f2a5-11ea-8945-b250c97f2563.png"> [`.wp-env.json`](https://developer.wordpress.org/block-editor/packages/packages-env/#wp-env-json) - wp-env configuration.
   > wp-env lets you easily set up a local WordPress environment for building and testing plugins and themes.
 - <img width="16" alt="Yarn icon" src="https://user-images.githubusercontent.com/5457539/92557166-8ea6a400-f2a6-11ea-98b8-ac1a910b0a04.png"> [`.yarnrc`](https://classic.yarnpkg.com/en/docs/yarnrc/) - Allows you to configure additional Yarn features.
